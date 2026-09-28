@@ -35,7 +35,5 @@ Date handling	Dates are numeric Excel dates displayed as dd-mmm-yyyy or mmm-yyyy
 Action closure	A Closed status requires a completion date and a closure evidence reference. Supplier action fields read Suppliers, so update the source instead of overwriting links.						
 							
 Theme	Forest green #245B36; leaf green #6D963D; pale green #EAF2E8; amber inputs #FFF2CC; red exceptions #FBE7E5. Arial provides a consistent font across cells and charts.						
-							
-Further explanation	See ESG_Project_Walkthrough.docx for the build steps, formulas, sources, dashboard choices, testing and interview preparation.						
-							
-<img width="1761" height="1600" alt="image" src="https://github.com/user-attachments/assets/fe78bbb2-6b45-49f3-9144-959e03be39f4" />
+
+											
